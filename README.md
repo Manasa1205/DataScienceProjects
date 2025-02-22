@@ -21,4 +21,7 @@ Description: Conducting EDA on a large-scale fish dataset to uncover patterns, c
 
 Tools & Techniques: Pandas, Matplotlib, Seaborn
 
+### NLP Sentiment Analysis of Large Movie Review Dataset:
+Description: Analyze movie reviews to classify sentiments as positive or negative using NLP techniques.
 
+Tools & Techniques: Pandas, NLTK/Spacy, Scikit-learn, Matplotlib
